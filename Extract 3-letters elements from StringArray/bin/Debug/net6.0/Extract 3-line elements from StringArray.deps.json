@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Extract 3-line elements from StringArray/1.0.0": {
+        "runtime": {
+          "Extract 3-line elements from StringArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extract 3-line elements from StringArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
